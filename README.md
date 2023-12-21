@@ -1,3 +1,1 @@
 # Diagnosys AI
-
-asdasd

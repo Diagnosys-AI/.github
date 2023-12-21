@@ -39,8 +39,6 @@ Use a MultiModal Retrieval-Augmented Generation (RAG) Stack, contexualised with 
 - Trust in the AI is a risk factor. This is mitigated by providing citations to the contextual information, such as Oxford Handbook of Clinical Medicine, Kumar & Clark's Clinical Medicine, etc.
 - Can utilise multi=modal Models with Images, with rashes for example. These will refernece images from DermNet NZ
 
-###
-
 ## Resources / Context Used:
 
 - The Oxford Handbook of Clinical Medicine is a pocket textbook aimed at medical students and junior doctors, and covers all aspects of clinical medicine.
